@@ -9,7 +9,9 @@ title: Projects
 
 The second season of _Data Dialogues_ is a narrative long form 6-episode podcast that I conceptualized, directed, and hosted as Science Communications Fellow at the [Open Environmental Data Project](https://www.openenvironmentaldata.org/). 
 
-The _Data Dialogues_ podcast brings together multiple perspectives to look at a single environmental data issue. The second season focuses on Indonesia’s OneMap policy: a decade-long, ongoing effort to resolve land conflict with data. I spoke to _adat_ elders, drone ecologists, journalists, lawyers, community mapping networks, data technologists, policy folks, and a multi-species ethnographer about the limitations of modern cartography, Indonesia's place in the international climate finance ecosystem, and Indigenous struggles over being seen. _Data Dialogues_ is streaming on all podcast platforms from March 14, 2023. 
+The _Data Dialogues_ podcast brings together multiple perspectives to look at a single environmental data issue. The second season focuses on Indonesia’s OneMap policy: a decade-long, ongoing effort to resolve land conflict with data. I spoke to _adat_ elders, drone ecologists, journalists, lawyers, community mapping networks, data technologists, policy folks, and a multi-species ethnographer about the limitations of modern cartography, Indonesia's place in the international climate finance ecosystem, and Indigenous struggles over being seen. 
+
+_Data Dialogues_ is streaming on all podcast platforms from March 14, 2023. 
 
 ***
 
@@ -39,7 +41,9 @@ I drew on paritcipatory research methods to conduct usability testing for the ne
 
 What is preventing farmers from shifting their behaviors? Why are farmers reluctant to experiment with new methods and inputs? Why is investing into soil regeneration or water conservation postponed in favor of immediate livelihood concerns? This is where the [Behavior Change for Agriculture Guide](https://agriculture.rare.org/) comes in. 
 
-I led the concept, research, interaction design, and wireframing of a virtual ‘Behavior Change Toolkit for Agriculture’ with the Marketing/Communications team at Rare and Washington D.C.-based web design agency Taoti lent design support.
+I led the concept, research, interaction design, and wireframing of a virtual ‘Behavior Change Toolkit for Agriculture’ with the Marketing/Communications team at Rare and Washington D.C.-based web design agency Taoti lent design support. The content was co-authored with Deissy Martínez-Barón, social scientist at the Alliance of Bioversity and the International Center for Tropical Agriculture (CIAT), our project partner. The CGIAR research program on Climate Change, Agriculture and Food Security (CCAFS) also provided research guidance. 
 
 Tapping into farmers’ motivations and barriers takes us closer to solutions grounded in behaviorally informed insights. Illustrated with data from partner organizations in Mexico, China, Peru, and Colombia tracking the rate of adoption, this Guide invites us to center farmer behaviors, develop insights and design improved livelihoods for the world’s 570 million smallholder farms.
+
+You can read more about the toolkit [here](https://alliancebioversityciat.org/stories/human-behaviour-invisible-link-between-climate-and-smallholder-livelihoods). 
 
