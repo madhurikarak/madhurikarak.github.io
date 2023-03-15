@@ -15,15 +15,24 @@ _Data Dialogues_ is streaming on all podcast platforms from March 14, 2023.
 
 ***
 
-#### **[At the Confluence of Digital Rights & Climate Justice](https://www.theengineroom.org/new-report-at-the-confluence-of-digital-rights-climate-justice/)**
+#### **[At the Confluence of Digital Rights and Climate & Environmental Justice](https://www.theengineroom.org/new-report-at-the-confluence-of-digital-rights-climate-justice/)**
 
-With [The Engine Room](https://www.theengineroom.org/), I co-authored a landscape analysis of intersections between digital rights and environmental and climate justice to strengthen open collaboration over questions of digital safety, disinformation, extractive green technologies, rights of access, and sustainable internet. We spoke to practitioners, grantmakers, and scholars from 10+ countries. The report was published in July 2022. 
+With [The Engine Room](https://www.theengineroom.org/), I co-authored a landscape analysis of intersections between digital rights and environmental and climate justice to strengthen open collaboration over questions of digital safety, disinformation, extractive green technologies, rights of access, and sustainable internet. We spoke to over 20 practitioners, grantmakers, and scholars from 10+ countries, and many more joined our community calls to share their insights, experiences, and hopes for the future.
+
+> As the effects of the ongoing climate emergency amplify, the fight for environmental & climate justice has become more crucial than ever. While technology is
+being used to support these efforts, it can also be part of the problem: technological innovation is taking an environmental toll, climate justice activists face
+increasing digital attacks, social media platforms are full of unfounded claims about climate change, and many of the communities affected the most by the climate emergency continue to lack basic access to digital resources that are needed to adapt to, and mitigate effects of, the climate crisis – from internet access to reliable online information in their own language and cultural context.
+
+> With all this in mind, it is clear that an exploration of the intersections between environmental/climate justice (EJ-CJ) and digital rights (DR) movements – with
+an eye on identifying opportunities for collaboration and support – could help both sectors achieve their respective goals. 
+
+The report was published in July 2022. You can access it in full [here](https://www.theengineroom.org/new-report-at-the-confluence-of-digital-rights-climate-justice/).
 
 ***
 
 #### [Stewarding Ocean-reliant Communities](https://ssfhub.org/) 
 
-I guided the Environmental Defense Fund's Small-Scale Fisheries Hub through the first half of IYAFA (International Year of Aritsanal Fisheries and Aquaculture) as an Online Community Building Strategist. 
+I guided the Environmental Defense Fund's Small-Scale Fisheries Hub through the first half of IYAFA 2022 (International Year of Aritsanal Fisheries and Aquaculture) as an Online Community Building Strategist. 
 
 After three months of audience development research, I designed a [playbook](https://github.com/madhurikarak/madhurikarak.github.io/files/10979540/SSF.Hub.Engagement.Playbook.Spring.2022.pdf) for driving engagement on coastal adaptation strategies; built  trust with partner organizations; and facilitated events via the Hub, a multilingual global network for artisanal fishers, fish farmers, fish workers, and their allies.
 
