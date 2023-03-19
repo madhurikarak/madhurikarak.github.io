@@ -5,4 +5,10 @@ title: Research
 
 # Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante risus, pharetra ut arcu eget, pretium sodales mi. Nunc ut sagittis arcu. Aenean placerat tortor vitae erat congue, quis luctus augue condimentum. Suspendisse a mattis diam. Etiam id dictum velit, vel pharetra nulla. Etiam consequat sapien ac convallis ornare. Aliquam laoreet odio dolor, ultrices rutrum ex commodo a. Aliquam a lorem ultricies, ultricies lacus vel, facilisis dui. Mauris ac dui ut magna maximus sollicitudin vel ac elit. Praesent ornare, tellus nec sodales pellentesque, lectus nibh pharetra velit, non efficitur turpis libero sagittis risus. Nunc fringilla rhoncus dolor. Nunc interdum dui nisl, ut sodales orci mattis non. Curabitur sed erat ipsum. Sed tempus lacinia tempus.
+**Insurgent Difference: An Ethnography of an Indian Resource Frontier**
+
+My Ph.D. dissertation analyzed resource extraction and development as mutually constitutive logics of rule in the bauxite-rich mountains of southern Odisha, India. I showed how Dongria and Kutia Kondh Adivasi communities threatened with displacement by mining capital draw on historically oppositional subjectivities to re-envision relations of power between the state, the market and the commons. 
+
+At the heart of this reimagining are youth activists who navigate overlapping worlds of agrarian distress, guerrilla insurgency, social movements and seasonal migration to forge new subjectivities and negotiations between politics, work and everyday life. 
+
+I conducted 16 months of ethnographic fieldwork [June-July 2013; June 2014 - July 2015] in Rayagada and Kalahandi districts of Odisha and archival research in Bhubaneswar, Chennai, and Kolkata. The Social Science Research Council and CUNY's Advanced Research Collaborative supported this research.
