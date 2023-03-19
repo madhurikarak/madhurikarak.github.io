@@ -9,7 +9,7 @@ author:
   name: Madhuri Karak
   desc: Hello nice to meet you
   email: youremailaddress@gmail.com
-  selfie: assets/img/profile.jpg
+  selfie: /assets/img/profile.jpg
 
 # social
 social:
