@@ -3,9 +3,9 @@ layout: about
 ---
 
 # about 
-#### Madhuri Karak (she/her) is an independent researcher, writer, and community engagement strategist working at the intersections of climate, technology, and culture.
+#### Madhuri Karak (she/her) is an independent researcher, writer, and strategist working at the intersections of climate, technology, and culture.
 
-#### She has supported earth defenders, small-scale fishers and farmers, environmental and climate activists, digital rights practiotioners, and behavioral scientists to secure and manage the commons for collective wellbeing. She is especially interested in propulsive multiple-format storytelling about complex social justice challenges. 
+#### She has supported earth defenders, small-scale fishers and farmers, environmental and climate activists, digital rights practiotioners, and behavioral scientists to secure and manage the commons for collective wellbeing. This decade-long work has taken the form of reports, podcasts, narrative longform, strategic community engagement, and landscape analyses.
 
 #### ‘Collective organizing’ challenges are of particular interest to Madhuri: How are earth defenders mobilizing data initiatives to push for better regulations and end systemic harms? How did Indigenous youth in eastern India resist resource extraction? How can we better represent multisensory ways of knowing and experiencing land and forest in environmental data? What are the barriers to precarious smallholder agriculturists adopting climate-resilient farming methods? 
 
