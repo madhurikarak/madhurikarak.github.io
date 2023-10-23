@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Are multi-sensory maps Possible?"
-description: "MADHURI KARAK TALKS WITH INDIGENOUS ELDERS AND LOCAL RESEARCHERS IN INDONESIA ABOUT COMMUNITY MAPPING PROJECTS USING GPS, DRONES AND SENSORY EXPERIENCES TO DEFEND AGAINST ENCROACHING PALM OIL ACQUISITIONS AND GOVERNMENT MAPS."
+description: "Madhuri talks with Indigenous elders and local researchers in Indonesia about community mapping projects using GPS, drones, and sensory experiences to defend against encroaching palm oil acquisitions and government maps."
 link: https://containermagazine.co.uk/are-multi-sensory-maps-possible/
 ---
